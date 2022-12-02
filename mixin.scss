@@ -1,0 +1,8 @@
+@mixin h1{
+  color: yellow;
+}
+@mixin bc{
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
